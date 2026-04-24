@@ -1,7 +1,5 @@
 //this malware is absolute ass (its made by ultradasher's brother TELEPATHII)
 //and what the fuck is with the weird naming and obviously vibe coded "DrawScene" function???
-//
-//L!
 
 typedef struct IUnknown IUnknown;
 #include <windows.h>
