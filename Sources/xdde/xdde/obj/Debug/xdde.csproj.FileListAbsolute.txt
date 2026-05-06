@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\xdde\xdde\bin\Debug\xdde.exe.config
+D:\Visual Studio Projects\xdde\xdde\bin\Debug\xdde.exe
+D:\Visual Studio Projects\xdde\xdde\bin\Debug\xdde.pdb
+D:\Visual Studio Projects\xdde\xdde\obj\Debug\xdde.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\xdde\xdde\obj\Debug\xdde.fullscreen.resources
+D:\Visual Studio Projects\xdde\xdde\obj\Debug\xdde.Properties.Resources.resources
+D:\Visual Studio Projects\xdde\xdde\obj\Debug\xdde.csproj.GenerateResource.cache
+D:\Visual Studio Projects\xdde\xdde\obj\Debug\xdde.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\xdde\xdde\obj\Debug\xdde.exe
+D:\Visual Studio Projects\xdde\xdde\obj\Debug\xdde.pdb
